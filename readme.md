@@ -22,3 +22,11 @@ Deployed on sepolia-ETH testnet
 const lendingAddress = "0x07e97Dae913F0AdA300d59357D9EaaeB60d244ee";
 const usdtAddress = "0x17129Ce1bdD0A7892a92419E037a8020B5b74F54";
 
+```
+---
+
+## RUN
+```bash
+npm run dev
+
+```
